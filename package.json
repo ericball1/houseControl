@@ -1,0 +1,14 @@
+{
+  "name": "houseControl",
+  "version": "0.0.1",
+  "description": "Controls my house",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "wemo-client": "^0.7.0"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
